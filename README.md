@@ -1,2 +1,2 @@
 # hello-word
-just try
+i am a student！
